@@ -36,6 +36,7 @@ To run this application, ensure the following are installed on your system:
 git clone https://github.com/CormacM22/TaskManager
 cd task-manager-app
 ```
+![Uploading Screenshot 2024-12-06 225307.png…]()
 
 # Getting Started with Create React App
 
